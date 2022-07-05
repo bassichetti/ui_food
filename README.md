@@ -1,5 +1,7 @@
 # ui_food
 
+![Cat](https://raw.githubusercontent.com/{user}/{repo}/{sha}/cat.png)
+
 A new Flutter project.
 
 ## Getting Started
