@@ -1,6 +1,6 @@
 # ui_food
 
-![Cat](https://raw.githubusercontent.com/{user}/{repo}/{sha}/cat.png)
+![Cat](https://raw.githubusercontent.com/bassichetti/ui_food/assets/food.jpg)
 
 A new Flutter project.
 
